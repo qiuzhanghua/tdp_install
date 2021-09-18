@@ -1,0 +1,16 @@
+{
+    "current":{
+        "jdk":{
+            "name":"jdk",
+            "version":"8.0.302",
+            "os":"windows",
+            "path":"java-8.0.302-zulu",
+            "env":"C:\\Users\\chixue\\.sdkman\\candidates\\java\\8.0.302-zulu"
+        },
+        "maven":{
+            "name":"2021",
+            "version":"2021",
+            "os":"windows"
+        }
+    }
+}

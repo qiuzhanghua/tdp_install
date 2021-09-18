@@ -18,5 +18,6 @@ install
 
 .idea
 .vscode
-
+/archives/
+/candidates/
 
